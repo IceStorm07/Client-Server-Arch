@@ -27,7 +27,7 @@ This project is a JAX-RS RESTful API for a Smart Campus system. It manages rooms
 - `GET /api/v1/sensors/{sensorId}/readings` - get readings
 - `POST /api/v1/sensors/{sensorId}/readings` - add reading
 
-## Sample curl Commands
+## Sample Curl Commands
 
 ### Get all rooms
 curl http://localhost:8080/api/v1
